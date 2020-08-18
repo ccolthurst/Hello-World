@@ -1,1 +1,33 @@
-Hello World!
+# Counter
+
+Counter is web service that increments a counter via a PUT request and returns the counter value via  GET request.
+
+## Service Details
+
+![Counter Service Data Flow Diagram Level 0](https://octodex.github.com/images/yaktocat.png)
+
+## Requirements
+
+docker
+docker-compose
+
+## Installation
+
+run 
+
+```
+build-counter.sh
+```
+
+Build the docker containers
+```
+Code Here
+```
+
+## Usage
+
+```
+Code Here
+```
+##
+
